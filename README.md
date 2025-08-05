@@ -33,7 +33,7 @@ A dashboard was built using:
 
 ## 🔗 Live Dashboard
 
-👉 [View on Tableau Public](https://public.tableau.com/app/profile/baraa.salkini/viz/HumanResourceDashboard_17187075120850/HRSummary)
+👉 [View on Tableau Public](https://public.tableau.com/app/profile/YOUR_USERNAME/viz/YOUR_DASHBOARD_NAME/HRSummary)
 
 ---
 
@@ -42,3 +42,10 @@ A dashboard was built using:
 | Summary View | Detailed View |
 |--------------|----------------|
 | ![](screenshots/summary-dashboard.png) | ![](screenshots/detailed-view.png) |
+
+---
+
+## 🙏 Inspiration
+
+> 📌 This dashboard was built entirely by me as a learning project and portfolio piece.  
+> It was inspired by the amazing work of [Baraa Salkini](https://www.datawithbaraa.com/tableau/tableau-hr-project-thank-you/) from his YouTube channel and Tableau Public dashboards.
